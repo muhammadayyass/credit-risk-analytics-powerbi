@@ -2,7 +2,7 @@
 
 Identifying which customer segments drive credit card default risk, using a star-schema Power BI model on 30,000 customer records.
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview]([https://github.com/muhammadayyass/credit-risk-analytics-powerbi/blob/main/dashboard-overview.png])
 
 📁 Open `dashboard.pbix` in Power BI Desktop to explore interactively.
 
