@@ -14,7 +14,6 @@ Identifying which customer segments drive credit card default risk, using a star
 > Open `Muhammad Yahya Ayyasy_Credit Risk Analytics.pbix` in <a href="https://github.com"><img src="https://shields.io" alt="Power BI Desktop"></a> (free) to explore the model interactively.
 
 
-
 ## Contents
 - [Business Problem](#business-problem)
 - [Data](#data)
